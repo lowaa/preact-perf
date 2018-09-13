@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es2017",
+    "allowJs": true,
+    "jsx": "react",
+    "jsxFactory": "h",
+    "moduleResolution": "node",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "rootDir": "./src",
+    "baseUrl": "./src"
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "webpack.config.js",
+    "webpack-test.config.js",
+    "karma.config.js",
+    "spec.bundle.js"
+  ]
+}
