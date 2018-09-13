@@ -8,6 +8,6 @@ Start the dev web server
 
     npm run start
 
-After letting it run in the browser for about 10 seconds to reach steady state, use browser tools for profiling
+Takes 10 to 30 seconds after loading in your browser to reach steady state.
 
 Tested on Chrome 68, Firefox 62, Edge 17
